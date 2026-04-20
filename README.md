@@ -1,6 +1,6 @@
 ## Hi there 👋
-My name's Cailtin and I mostly use this account for school 
-I'm 17 y/o and from europe
+My name's Cailtin and I mostly use this account for school.
+I'm 17 y/o and from europe!
 You can contact me via discord (which has the same user) or if it's important you can send an e-mail to caitlinkijk@gmail.com
 <!--
 **caitolino/caitolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
